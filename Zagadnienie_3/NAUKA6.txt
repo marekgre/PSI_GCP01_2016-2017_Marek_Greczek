@@ -1,0 +1,482 @@
+learn 2, cycles: 200
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 161
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 162
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 163
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 164
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 165
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 166
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 167
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 168
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 169
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 170
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 171
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 172
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 173
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 174
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 175
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 176
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 177
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 178
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 179
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 180
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 181
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 182
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 183
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 184
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 185
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 186
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 187
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 188
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 189
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 190
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 191
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 192
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 193
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 194
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 195
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 196
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 197
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 198
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 199
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: -nan(ind)
+Wyjscie 1: -nan(ind)
+Wyjscie 2: -nan(ind)
+Iteracja: 200
+time: 3261 ms
