@@ -1,0 +1,382 @@
+cycle 3, cycles: 500
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 0.00527224
+Wyjscie 1: 0.916623
+Wyjscie 2: 0.034556
+Wyjscie 3: 0.0409942
+Wyjscie 4: 0.0167497
+Wyjscie 5: 0.0225708
+Wyjscie 6: 0.00895849
+Wyjscie 7: 0.125074
+Wyjscie 8: 0.00712671
+Wyjscie 9: 0.0103288
+Iteracja: 481
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 0.00527224
+Wyjscie 1: 0.916623
+Wyjscie 2: 0.034556
+Wyjscie 3: 0.0409942
+Wyjscie 4: 0.0167497
+Wyjscie 5: 0.0225708
+Wyjscie 6: 0.00895849
+Wyjscie 7: 0.125074
+Wyjscie 8: 0.00712671
+Wyjscie 9: 0.0103288
+Iteracja: 482
+
+OOOOO
+O   O
+O    
+OOOO 
+O   O
+O   O
+OOOOO
+Wyjscie 0: 0.00717262
+Wyjscie 1: 0.00059156
+Wyjscie 2: 0.00953282
+Wyjscie 3: 0.0128554
+Wyjscie 4: 0.00112125
+Wyjscie 5: 0.0549339
+Wyjscie 6: 0.679027
+Wyjscie 7: 0.00168582
+Wyjscie 8: 0.453916
+Wyjscie 9: 0.00407386
+Iteracja: 483
+
+OOOOO
+    O
+    O
+OOOOO
+    O
+    O
+OOOOO
+Wyjscie 0: 0.00594707
+Wyjscie 1: 0.000424664
+Wyjscie 2: 0.0889345
+Wyjscie 3: 0.248017
+Wyjscie 4: 0.00229783
+Wyjscie 5: 0.0492342
+Wyjscie 6: 0.0136605
+Wyjscie 7: 0.00841849
+Wyjscie 8: 0.0972361
+Wyjscie 9: 0.219642
+Iteracja: 484
+
+OOOOO
+O  O 
+O  O 
+OOO  
+  O  
+  O  
+OOO  
+Wyjscie 0: 0.00170404
+Wyjscie 1: 0.0594705
+Wyjscie 2: 0.00595538
+Wyjscie 3: 0.00105422
+Wyjscie 4: 0.026374
+Wyjscie 5: 0.131774
+Wyjscie 6: 0.0163567
+Wyjscie 7: 0.0321357
+Wyjscie 8: 0.00710415
+Wyjscie 9: 0.00228598
+Iteracja: 485
+
+OOOOO
+O   O
+O    
+OOOO 
+O   O
+O   O
+OOOOO
+Wyjscie 0: 0.00717262
+Wyjscie 1: 0.00059156
+Wyjscie 2: 0.00953282
+Wyjscie 3: 0.0128554
+Wyjscie 4: 0.00112125
+Wyjscie 5: 0.0549339
+Wyjscie 6: 0.679027
+Wyjscie 7: 0.00168582
+Wyjscie 8: 0.453916
+Wyjscie 9: 0.00407386
+Iteracja: 486
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 0.040253
+Wyjscie 1: 0.00323071
+Wyjscie 2: 0.0511114
+Wyjscie 3: 0.000536639
+Wyjscie 4: 0.40781
+Wyjscie 5: 0.00912815
+Wyjscie 6: 0.181663
+Wyjscie 7: 0.0065372
+Wyjscie 8: 0.0336811
+Wyjscie 9: 0.000135504
+Iteracja: 487
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 0.0129346
+Wyjscie 1: 0.000281647
+Wyjscie 2: 0.269709
+Wyjscie 3: 0.0910872
+Wyjscie 4: 0.00131444
+Wyjscie 5: 0.00243329
+Wyjscie 6: 0.104425
+Wyjscie 7: 0.00434626
+Wyjscie 8: 0.335223
+Wyjscie 9: 0.0103302
+Iteracja: 488
+
+OOOO 
+O  O 
+O    
+OOOO 
+   O 
+O  O 
+OOOO 
+Wyjscie 0: 0.00114136
+Wyjscie 1: 0.00479536
+Wyjscie 2: 0.0318025
+Wyjscie 3: 0.00582682
+Wyjscie 4: 0.231703
+Wyjscie 5: 0.088203
+Wyjscie 6: 0.126985
+Wyjscie 7: 0.00268512
+Wyjscie 8: 0.0235311
+Wyjscie 9: 0.00119602
+Iteracja: 489
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 0.00527224
+Wyjscie 1: 0.916623
+Wyjscie 2: 0.034556
+Wyjscie 3: 0.0409942
+Wyjscie 4: 0.0167497
+Wyjscie 5: 0.0225708
+Wyjscie 6: 0.00895849
+Wyjscie 7: 0.125074
+Wyjscie 8: 0.00712671
+Wyjscie 9: 0.0103288
+Iteracja: 490
+
+OOOO 
+O  O 
+O    
+OOOO 
+   O 
+O  O 
+OOOO 
+Wyjscie 0: 0.00114136
+Wyjscie 1: 0.00479536
+Wyjscie 2: 0.0318025
+Wyjscie 3: 0.00582682
+Wyjscie 4: 0.231703
+Wyjscie 5: 0.088203
+Wyjscie 6: 0.126985
+Wyjscie 7: 0.00268512
+Wyjscie 8: 0.0235311
+Wyjscie 9: 0.00119602
+Iteracja: 491
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 0.0129346
+Wyjscie 1: 0.000281647
+Wyjscie 2: 0.269709
+Wyjscie 3: 0.0910872
+Wyjscie 4: 0.00131444
+Wyjscie 5: 0.00243329
+Wyjscie 6: 0.104425
+Wyjscie 7: 0.00434626
+Wyjscie 8: 0.335223
+Wyjscie 9: 0.0103302
+Iteracja: 492
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 0.040253
+Wyjscie 1: 0.00323071
+Wyjscie 2: 0.0511114
+Wyjscie 3: 0.000536639
+Wyjscie 4: 0.40781
+Wyjscie 5: 0.00912815
+Wyjscie 6: 0.181663
+Wyjscie 7: 0.0065372
+Wyjscie 8: 0.0336811
+Wyjscie 9: 0.000135504
+Iteracja: 493
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 0.00527224
+Wyjscie 1: 0.916623
+Wyjscie 2: 0.034556
+Wyjscie 3: 0.0409942
+Wyjscie 4: 0.0167497
+Wyjscie 5: 0.0225708
+Wyjscie 6: 0.00895849
+Wyjscie 7: 0.125074
+Wyjscie 8: 0.00712671
+Wyjscie 9: 0.0103288
+Iteracja: 494
+
+OOOOO
+O  O 
+O  O 
+OOO  
+  O  
+  O  
+OOO  
+Wyjscie 0: 0.00170404
+Wyjscie 1: 0.0594705
+Wyjscie 2: 0.00595538
+Wyjscie 3: 0.00105422
+Wyjscie 4: 0.026374
+Wyjscie 5: 0.131774
+Wyjscie 6: 0.0163567
+Wyjscie 7: 0.0321357
+Wyjscie 8: 0.00710415
+Wyjscie 9: 0.00228598
+Iteracja: 495
+
+OOOO 
+O  O 
+O    
+OOOO 
+   O 
+O  O 
+OOOO 
+Wyjscie 0: 0.00114136
+Wyjscie 1: 0.00479536
+Wyjscie 2: 0.0318025
+Wyjscie 3: 0.00582682
+Wyjscie 4: 0.231703
+Wyjscie 5: 0.088203
+Wyjscie 6: 0.126985
+Wyjscie 7: 0.00268512
+Wyjscie 8: 0.0235311
+Wyjscie 9: 0.00119602
+Iteracja: 496
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 0.040253
+Wyjscie 1: 0.00323071
+Wyjscie 2: 0.0511114
+Wyjscie 3: 0.000536639
+Wyjscie 4: 0.40781
+Wyjscie 5: 0.00912815
+Wyjscie 6: 0.181663
+Wyjscie 7: 0.0065372
+Wyjscie 8: 0.0336811
+Wyjscie 9: 0.000135504
+Iteracja: 497
+
+OOOOO
+    O
+    O
+OOOOO
+    O
+    O
+OOOOO
+Wyjscie 0: 0.00594707
+Wyjscie 1: 0.000424664
+Wyjscie 2: 0.0889345
+Wyjscie 3: 0.248017
+Wyjscie 4: 0.00229783
+Wyjscie 5: 0.0492342
+Wyjscie 6: 0.0136605
+Wyjscie 7: 0.00841849
+Wyjscie 8: 0.0972361
+Wyjscie 9: 0.219642
+Iteracja: 498
+
+OOOOO
+O   O
+O    
+OOOO 
+O   O
+O   O
+OOOOO
+Wyjscie 0: 0.00717262
+Wyjscie 1: 0.00059156
+Wyjscie 2: 0.00953282
+Wyjscie 3: 0.0128554
+Wyjscie 4: 0.00112125
+Wyjscie 5: 0.0549339
+Wyjscie 6: 0.679027
+Wyjscie 7: 0.00168582
+Wyjscie 8: 0.453916
+Wyjscie 9: 0.00407386
+Iteracja: 499
+
+ OO  
+O  O 
+O  O 
+OOOO 
+O  O 
+O  O 
+ OO  
+Wyjscie 0: 0.00473263
+Wyjscie 1: 0.0213392
+Wyjscie 2: 0.0413886
+Wyjscie 3: 0.00217823
+Wyjscie 4: 0.478217
+Wyjscie 5: 0.0120382
+Wyjscie 6: 0.640636
+Wyjscie 7: 0.0022426
+Wyjscie 8: 0.230432
+Wyjscie 9: 0.00355121
+Iteracja: 500
+time: 1835 ms
