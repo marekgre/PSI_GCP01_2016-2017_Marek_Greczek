@@ -1,0 +1,4802 @@
+learning 6, cycles: 400, eta: 0.001
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 1
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 2
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 3
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 4
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 5
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 6
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 7
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 8
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 9
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 10
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 11
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 12
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 13
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 14
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 15
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 16
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 17
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 18
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 19
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 20
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 21
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 22
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 23
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 24
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 25
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 26
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 27
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 28
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 29
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 30
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 31
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 32
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 33
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 34
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 35
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 36
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 37
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 38
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 39
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 40
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 41
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 42
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 43
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 44
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 45
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 46
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 47
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 48
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 49
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 50
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 51
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 52
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 53
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 54
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 55
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 56
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 57
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 58
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 59
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 60
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 61
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 62
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 63
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 64
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 65
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 66
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 67
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 68
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 69
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 70
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 71
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 72
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 73
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 74
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 75
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 76
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 77
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 78
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 79
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 80
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 81
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 82
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 83
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 84
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 85
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 86
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 87
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 88
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 89
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 90
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 91
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 92
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 93
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 94
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 95
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 96
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 97
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 98
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 99
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 100
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 101
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 102
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 103
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 104
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 105
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 106
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 107
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 108
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 109
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 110
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 111
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 112
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 113
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 114
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 115
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 116
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 117
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 118
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 119
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 120
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 121
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 122
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 123
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 124
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 125
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 126
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 127
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 128
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 129
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 130
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 131
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 132
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 133
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 134
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 135
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 136
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 137
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 138
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 139
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 140
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 141
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 142
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 143
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 144
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 145
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 146
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 147
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 148
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 149
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 150
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 151
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 152
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 153
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 154
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 155
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 156
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 157
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 158
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 159
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 160
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 161
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 162
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 163
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 164
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 165
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 166
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 167
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 168
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 169
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 170
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 171
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 172
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 173
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 174
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 175
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 176
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 177
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 178
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 179
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 180
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 181
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 182
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 183
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 184
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 185
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 186
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 187
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 188
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 189
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 190
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 191
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 192
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 193
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 194
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 195
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 196
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 197
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 198
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 199
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 200
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 201
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 202
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 203
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 204
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 205
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 206
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 207
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 208
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 209
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 210
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 211
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 212
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 213
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 214
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 215
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 216
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 217
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 218
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 219
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 220
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 221
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 222
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 223
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 224
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 225
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 226
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 227
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 228
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 229
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 230
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 231
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 232
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 233
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 234
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 235
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 236
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 237
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 238
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 239
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 240
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 241
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 242
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 243
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 244
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 245
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 246
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 247
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 248
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 249
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 250
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 251
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 252
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 253
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 254
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 255
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 256
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 257
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 258
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 259
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 260
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 261
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 262
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 263
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 264
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 265
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 266
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 267
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 268
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 269
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 270
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 271
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 272
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 273
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 274
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 275
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 276
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 277
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 278
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 279
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 280
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 281
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 282
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 283
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 284
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 285
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 286
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 287
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 288
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 289
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 290
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 291
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 292
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 293
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 294
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 295
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 296
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 297
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 298
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 299
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 300
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 301
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 302
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 303
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 304
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 305
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 306
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 307
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 308
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 309
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 310
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 311
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 312
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 313
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 314
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 315
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 316
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 317
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 318
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 319
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 320
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 321
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 322
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 323
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 324
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 325
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 326
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 327
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 328
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 329
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 330
+
+ OOO 
+O   O
+    O
+   O 
+  O  
+ O   
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 331
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 332
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 333
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 334
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 335
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 336
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 337
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 338
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 339
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 340
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 341
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 342
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 343
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 344
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 345
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 346
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 347
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 348
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 349
+
+OOOOO
+    O
+    O
+OOOOO
+O    
+O    
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 350
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 351
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 352
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 353
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 354
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 355
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 356
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 357
+
+OOOOO
+O   O
+O   O
+O   O
+O   O
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 358
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 359
+
+OOO  
+O O  
+O O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 360
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 361
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 362
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 363
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 364
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 365
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 366
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 367
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 368
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 369
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 370
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 371
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 372
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 373
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 374
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 375
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 376
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 377
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 378
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 379
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 380
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 381
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 382
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 383
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 384
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 385
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 386
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 387
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 388
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 389
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 390
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 391
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 392
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 393
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 394
+
+OOOOO
+O   O
+    O
+OOOOO
+O    
+O   O
+OOOOO
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 395
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 396
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 397
+
+OOO  
+  O  
+  O  
+  O  
+  O  
+  O  
+  O  
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 398
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 399
+
+OOOO 
+O  O 
+O  O 
+O  O 
+O  O 
+O  O 
+OOOO 
+Wyjscie 0: 1
+Wyjscie 1: 0
+Wyjscie 2: 0
+Iteracja: 400
+time: 18322 ms
