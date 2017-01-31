@@ -1,0 +1,404 @@
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 20
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 21
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 22
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 23
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 24
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 25
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 26
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 27
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 28
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 29
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 30
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 31
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 32
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 33
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 34
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 35
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 36
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 37
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 38
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 39
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 40
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 41
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 42
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 43
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 44
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 45
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 46
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 47
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+  O  
+ OO  
+O O  
+  O  
+  O  
+  O  
+  O  
+Iteracja: 48
+Wyjscie wstepne 0: -5.41191
+Wyjscie wstepne 1: 5.43747
+Wyjscie 0: 0
+Wyjscie 1: 1
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 49
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+
+ OOO 
+O   O
+O   O
+O   O
+O   O
+O   O
+ OOO 
+Iteracja: 50
+Wyjscie wstepne 0: 11.6981
+Wyjscie wstepne 1: -11.6738
+Wyjscie 0: 1
+Wyjscie 1: 0
+time: 444 ms
